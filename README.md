@@ -28,10 +28,6 @@ The **Restaurant Management System** is a Python application developed using the
 3. Click the "PRICE" button to view the price list of menu items.
 4. Utilize the calculator for any additional calculations needed.
 
-## Contributors
-
-- Your Name - Developer
-
 ## License
 
 This project is licensed under the MIT License.
